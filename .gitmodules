@@ -1,0 +1,3 @@
+[submodule "MyFirstApp"]
+	path = MyFirstApp
+	url = https://github.com/ce60939n/CS389.git
